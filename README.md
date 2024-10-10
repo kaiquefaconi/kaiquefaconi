@@ -14,7 +14,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho co
 
 ### Contato
 * **Email:** kaique.faconi@v8.com
-* **LinkedIn:** link para seu perfil no LinkedIn
+* **LinkedIn:** linkedin.com/in/kaique-faconi-873117217/
 
 
 
