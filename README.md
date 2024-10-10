@@ -17,7 +17,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** e trabalho como *
 Sempre estou buscando novas formas de aprimorar minhas habilidades em automação de testes e desenvolvimento de software.
 
 ## 📫 Como me encontrar:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kaique-faconi-873117217/)
 - [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 Vamos nos conectar e compartilhar conhecimentos! 😊
