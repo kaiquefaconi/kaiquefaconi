@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho co
 
 ### Habilidades
 * **Linguagens de programação:** Python, Java, JavaScript, Html3, Css
-* **Frameworks e tecnologias:** React, Django, Spring
+* **Frameworks e tecnologias:** RobotFramework, Cypress, Appium
 * **Ferramentas:** Git, Docker, SQL
 * **Metodologias:** Agile, Scrum
 
