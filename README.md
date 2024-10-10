@@ -18,7 +18,7 @@ Sempre estou buscando novas formas de aprimorar minhas habilidades em automaçã
 
 ## 📫 Como me encontrar:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kaique-faconi-873117217/)
-- [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+- [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaiquefaconi@gmail.com)
 
 Vamos nos conectar e compartilhar conhecimentos! 😊
 
